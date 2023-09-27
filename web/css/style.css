@@ -1,0 +1,11 @@
+
+
+.nav-item:hover{
+    background-color:red;
+    font-weight: bold;
+}
+
+#upper_slider{//for design
+    background:transparent;
+    background-color:#21252966;
+}
